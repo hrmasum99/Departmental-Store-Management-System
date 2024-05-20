@@ -1,0 +1,6 @@
+Product has been selled, barcode : 123 amount 90 pcs.
+Product has been added, barcode : 123 amount 50 pcs.
+Product has been selled, barcode : 123 amount 100 pcs.
+Product has been selled, barcode : 258 amount 20 pcs.
+				Product has been selled, barcode : 1236 amount 15 pcs.
+				Product has been added, barcode : 1234 amount 50 pcs.
